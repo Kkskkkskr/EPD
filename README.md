@@ -1,4 +1,12 @@
 # EPD: Long-term Memory Extraction, Context-awared Planning and Multi-iteration Decision @ EgoPlan Challenge ICML 2024
+## Authors
+
+**Letian Shi**<sup>1</sup>, **Qi Lv**<sup>1,2</sup>, **Xiang Deng**<sup>1</sup>\*, **Liqiang Nie**<sup>1</sup>\*
+
+<sup>1</sup> Harbin Institute of Technology, Shenzhen  
+<sup>2</sup> Great Bay University  
+\* Corresponding authors
+
 ## Requirements
 openai = 0.28.0
 
